@@ -574,9 +574,11 @@ ul.social-network li {
   border-radius: 15px;
 }
 .companieBg{
-  background-image: url(images/bg2.jfif);
+  background-image: url(images/bg7.jfif);
   background-repeat: no-repeat;
   background-size: cover;
+  height: auto;
+  width: auto;
   background-position:left;
 }
 
